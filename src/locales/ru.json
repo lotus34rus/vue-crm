@@ -1,0 +1,25 @@
+{
+    "ProfileTitle": "Профиль",
+    "Name": "Имя",
+    "NameError": "Заполните поле Имя",
+    "Update": "Обновить",
+    "Menu_Bill": "Счет",
+    "Menu_History": "История",
+    "Menu_Planning": "Планирование",
+    "Menu_NewRecord": "Новая запись",
+    "Menu_Categories":  "Категориии",
+    "BillInCurrency" : "Счет в валюте",
+    "ExchangeRates" : "Курс валют",
+    "Currency" : "Валюта",
+    "Rate" : "Курс",
+    "Date" : "Дата",
+    "RecordsHistory": "История записей",
+    "Amount" : "Сумма",
+    "Category" : "Категории",
+    "Type" : "Тип",
+    "Open" : "Открыть",
+    "DetailTitle" : "Страница записи",
+    "Login" : "Вход",
+    "Registration": "Регистрация"
+
+}

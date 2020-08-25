@@ -1,0 +1,25 @@
+{
+    "ProfileTitle": "Profile",
+    "Name": "Name",
+    "NameError": "Enter name",
+    "Update": "Update",
+    "Menu_Bill": "Bill",
+    "Menu_History": "History",
+    "Menu_Planning": "Planning",
+    "Menu_NewRecord": "New Record",
+    "Menu_Categories":  "Categories",
+    "BillInCurrency" : "Bill in Currency",
+    "ExchangeRates" : "Exchange Rates",
+    "Currency" : "Currency",
+    "Rate" : "Rate",
+    "Date" : "Date",
+    "RecordsHistory": "Records History",
+    "Amount" : "Amount",
+    "Category" : "Category",
+    "Type" : "Type",
+    "Open" : "Open",
+    "DetailTitle" : "Record`s Detail",
+    "Login" : "Login",
+    "Registration": "Registration"
+
+}
